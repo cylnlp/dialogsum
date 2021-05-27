@@ -1,20 +1,20 @@
-# DialSumm: A Real-life Scenario Dialogue Summarization Dataset
+# DialogSum: A Real-life Scenario Dialogue Summarization Dataset
 
-DialSumm is a large-scale dialogue summarization dataset, consisting of 13,460 dialogues with corresponding manually labeled summaries and topics.
+DialogSum is a large-scale dialogue summarization dataset, consisting of 13,460 dialogues with corresponding manually labeled summaries and topics.
 
 This work is accepted by ACL findings 2021. You may find the paper here: <https://arxiv.org/pdf/2105.06762.pdf>.
 
 If you want to use our dataset, please cite our paper. 
 
 ## Dialogue Data
-We collect dialogue data for DialSumm from three public dialogue corpora, namely Dailydialog (Li et al., 2017), DREAM (Sun et al., 2019) and MuTual (Cui et al., 2019), as well as an English speaking practice website. 
+We collect dialogue data for DialogSum from three public dialogue corpora, namely Dailydialog (Li et al., 2017), DREAM (Sun et al., 2019) and MuTual (Cui et al., 2019), as well as an English speaking practice website. 
 These datasets contain face-to-face spoken dialogues that cover a wide range of daily-life topics, including schooling, work, medication, shopping, leisure, travel.
 Most conversations take place between friends, colleagues, and between service providers and customers.
 
-Compared with previous datasets, dialogues from DialSumm have distinct characteristics: 
+Compared with previous datasets, dialogues from DialogSum have distinct characteristics: 
 * Under rich real-life scenarios, including more diverse task-oriented scenarios;
 * Have clear communication patterns and intents, which is valuable to serve as summarization sources;
-* Have a reasonable length, which comforts the purpose o automatic summarization.
+* Have a reasonable length, which comforts the purpose of automatic summarization.
 
 ## Summaries
 We ask annotators to summarize each dialogue based on the following criteria:
@@ -30,7 +30,7 @@ In addition to summaries, we also ask annotators to write a short topic for each
 
 
 
-**Reference**
+## Reference
 
 * Leyang Cui, Yu Wu, Shujie Liu, Yue Zhang, and Ming Zhou. 2020. MuTual: A dataset for multi-turn dialogue reasoning. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 1406–1416, Online. Association for Computational Linguistics.
 
