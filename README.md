@@ -4,7 +4,24 @@ DialogSum is a large-scale dialogue summarization dataset, consisting of 13,460 
 
 This work is accepted by ACL findings 2021. You may find the paper here: <https://arxiv.org/pdf/2105.06762.pdf>.
 
-If you want to use our dataset, please cite our paper. 
+If you want to use our dataset, please cite our paper:
+```
+@inproceedings{chen-etal-2021-dialogsum,
+    title = "{D}ialog{S}um: {A} Real-Life Scenario Dialogue Summarization Dataset",
+    author = "Chen, Yulong  and
+      Liu, Yang  and
+      Chen, Liang  and
+      Zhang, Yue",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021",
+    month = aug,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.findings-acl.449",
+    doi = "10.18653/v1/2021.findings-acl.449",
+    pages = "5062--5074",
+}
+```
 
 ## Dialogue Data
 We collect dialogue data for DialogSum from three public dialogue corpora, namely Dailydialog (Li et al., 2017), DREAM (Sun et al., 2019) and MuTual (Cui et al., 2019), as well as an English speaking practice website. 
