@@ -1,10 +1,10 @@
 # DialogSum: A Real-life Scenario Dialogue Summarization Dataset
 
+***NEWS: [DialogSum Challenge](https://aclanthology.org/2021.inlg-1.33.pdf) is accepted as a shared task proposal at [INLG 2021](https://inlg2021.github.io). Check the [task website](https://cylnlp.github.io/dialogsum_challenge/) if you are interested in.***
+
 DialogSum is a large-scale dialogue summarization dataset, consisting of 13,460 dialogues with corresponding manually labeled summaries and topics.
 
 This work is accepted by ACL findings 2021. You may find the paper [here](https://aclanthology.org/2021.findings-acl.449).
-
-Also, DialogSum is accepted as a shared task at INLG 2022. Check the [task website](https://cylnlp.github.io/dialogsum_challenge/) if you are interested in.
 
 If you use our dataset, please cite our paper:
 ```
