@@ -5,7 +5,6 @@
 DialogSum is a large-scale dialogue summarization dataset, consisting of 13,460 dialogues with corresponding manually labeled summaries and topics.
 
 This work is accepted by ACL findings 2021. You may find the paper [here](https://aclanthology.org/2021.findings-acl.449).
-
 If you use our dataset, please cite our paper:
 ```
 @inproceedings{chen-etal-2021-dialogsum,
