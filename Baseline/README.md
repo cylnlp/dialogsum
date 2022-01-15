@@ -1,11 +1,9 @@
 A simple baseline for the DialogSum Challenge using BART-Large model. It might help you quickly get familar with the task.
 
 ## Usage
-````sh
+```sh
 A simple baseline for the DialogSum Challenge using BART-Large model. It might help you quickly get familar with the task.
 
-## Usage
-```sh
 conda create -n dialogsumm python=3.7
 conda activate dialogsumm
 pip install -r requirements.txt
@@ -19,7 +17,7 @@ python bart_train.py
 # you may need to extra deal with the "#" symbol around the person name.
 
 ```
-````
+
 
 I got following result the on test set when comparing to the summary1
 
