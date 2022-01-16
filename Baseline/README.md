@@ -19,6 +19,6 @@ python bart_train.py
 ```
 
 
-got following result the on test set when comparing to the summary1
+got following result on the test set when comparing to the summary1
 
 'eval_rouge1': 45.9458, 'eval_rouge2': 21.3612, 'eval_rougeL': 38.7189,
