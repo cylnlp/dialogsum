@@ -1,0 +1,6 @@
+transformers == 4.12.2
+torch == 1.9.0
+datasets
+nltk
+numpy
+rouge_score
