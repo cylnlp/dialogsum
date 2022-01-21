@@ -13,7 +13,6 @@ pip install -r requirements.txt
 python bart_train.py
 
 # the code will output result on test set with regard to summary1, you can change it in the code.
-# the parameters are not carefully tuned
 # you may need to extra deal with the "#" symbol around the person name.
 
 ```
@@ -21,4 +20,7 @@ python bart_train.py
 
 got following result on the test set when comparing to the summary1
 
-'eval_rouge1': 45.9458, 'eval_rouge2': 21.3612, 'eval_rougeL': 38.7189,
+'eval_rouge1': 45.9458, 'eval_rouge2': 21.3612, 'eval_rougeL': 38.7189
+
+hints: the hyper-parameters from the script are not carefully tuned, you could refer to this [discussion](https://github.com/cylnlp/dialogsum/issues/9#issuecomment-1016279505) for more details to achieve comparable results as reported in the original paper.
+
