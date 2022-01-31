@@ -22,5 +22,5 @@ got following result on the test set when comparing to the summary1
 
 'eval_rouge1': 45.9458, 'eval_rouge2': 21.3612, 'eval_rougeL': 38.7189
 
-hints: the hyper-parameters from the script are not carefully tuned, you could refer to this [discussion](https://github.com/cylnlp/dialogsum/issues/9#issuecomment-1016279505) for more details to achieve comparable results as reported in the original paper.
+***Note***: the hyper-parameters in the script are not carefully tuned, you could refer to this [discussion](https://github.com/cylnlp/dialogsum/issues/9#issuecomment-1016279505) for more details to achieve comparable results as reported in the original paper.
 
