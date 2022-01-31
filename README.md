@@ -26,7 +26,7 @@ If you use our dataset, please cite our paper:
 
 ## Quick Start
 We provide a BART baseline for dialogue summarization, which may help you explore this area as a quick start.
-See [Basline](https://github.com/cylnlp/dialogsum/tree/main/Baseline).
+See [Baseline](https://github.com/cylnlp/dialogsum/tree/main/Baseline).
 
 ## Dialogue Data
 We collect dialogue data for DialogSum from three public dialogue corpora, namely Dailydialog (Li et al., 2017), DREAM (Sun et al., 2019) and MuTual (Cui et al., 2019), as well as an English speaking practice website. 
