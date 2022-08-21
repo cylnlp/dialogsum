@@ -1,9 +1,10 @@
 # DialogSum: A Real-life Scenario Dialogue Summarization Dataset
 
 DialogSum is a large-scale dialogue summarization dataset, consisting of 13,460 dialogues with corresponding manually labeled summaries and topics.
+You can directly download the data from this [fold](https://github.com/cylnlp/dialogsum/tree/main/DialogSum_Data), or from the Hugging face [Dataset](https://huggingface.co/datasets).
 
 This work is accepted by ACL findings 2021. You may find the paper [here](https://aclanthology.org/2021.findings-acl.449).
-If you use our dataset, please cite our paper:
+If you use our dataset, please kindly cite our paper:
 ```
 @inproceedings{chen-etal-2021-dialogsum,
     title = "{D}ialog{S}um: {A} Real-Life Scenario Dialogue Summarization Dataset",
