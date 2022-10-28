@@ -23,7 +23,7 @@ If you use our dataset, please kindly cite our paper:
 }
 ```
 
-[DialogSum Challenge](https://aclanthology.org/2021.inlg-1.33.pdf) is a shared task at [INLG 2022](https://inlgmeeting.github.io/index.html). Check the [task website](https://cylnlp.github.io/dialogsum-challenge/) and [shared report](https://arxiv.org/pdf/2208.03898.pdf).
+[DialogSum Challenge](https://aclanthology.org/2021.inlg-1.33.pdf) is a shared task at [INLG 2022](https://inlgmeeting.github.io/index.html). Check the [task website](https://cylnlp.github.io/dialogsum-challenge/) and [shared task report](https://arxiv.org/pdf/2208.03898.pdf).
 
 ## Quick Start
 We provide a BART baseline for dialogue summarization, which may help you explore this area as a quick start.
